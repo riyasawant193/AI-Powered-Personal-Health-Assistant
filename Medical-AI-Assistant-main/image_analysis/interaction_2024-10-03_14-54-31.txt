@@ -1,0 +1,27 @@
+User Input:
+Analysis Type: pregnancy_detection
+Custom Prompt: 
+
+Response:
+**Findings:**
+
+1. The image is a standard ultrasound scan. It depicts a fetus within the uterus. Visual cues indicating pregnancy include:
+    * **Fetal outline:** A well-defined fetal outline with recognizable body parts is clearly visible.
+    * **Fetal movement:** The fetal outline suggests movement and activity.
+
+2.  The presence of a fetus within the uterus is a definitive sign of pregnancy.
+
+**Interpretation:**
+
+1. The image strongly suggests a pregnancy. The presence of a fetus with distinguishable features indicates a confirmed pregnancy.
+
+2. Based on the fetal size and development, the gestational age could be estimated to be in the second or third trimester. However, a more precise gestational age assessment requires a comprehensive ultrasound examination and measurement by a qualified healthcare professional.
+
+**Recommendations:**
+
+1.  To confirm the pregnancy and determine the precise gestational age, a formal ultrasound examination by a qualified sonographer is recommended.
+2.  A consultation with an obstetrician/gynecologist is essential for prenatal care and monitoring throughout the pregnancy.
+
+**Emphasis:**
+
+This analysis is based on the provided image alone and should not be interpreted as a definitive diagnosis.  Seeking a qualified healthcare professional for a thorough evaluation and personalized guidance is crucial for proper pregnancy management.

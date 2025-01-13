@@ -1,0 +1,24 @@
+User Input:
+Analysis Type: pregnancy_detection
+Custom Prompt: 
+
+Response:
+## Pregnancy Detection Report
+
+**Findings:**
+
+1. The image appears to be a transvaginal ultrasound of the uterus. It shows a sagittal view (SAG UT) of the uterine cavity with a thickened endometrial stripe indicated by an arrow. 
+
+2.  A thickened endometrial stripe is a visual cue that can be associated with early pregnancy. 
+
+**Interpretation:**
+
+1. The thickened endometrial stripe observed in the image suggests the possibility of pregnancy. However, it is crucial to note that other factors, like hormonal changes or uterine conditions, can also cause endometrial thickening. 
+
+2.  Without further details or additional imaging, it is impossible to provide a reliable estimate of gestational age. 
+
+**Recommendations:**
+
+1.  A quantitative human chorionic gonadotropin (hCG) blood test is recommended to confirm pregnancy. 
+2.  A follow-up ultrasound examination should be performed to assess the presence of a gestational sac or other signs of pregnancy.
+3.  It is essential to emphasize that this analysis is not a definitive diagnosis and a qualified healthcare professional should be consulted for proper medical advice and management. 

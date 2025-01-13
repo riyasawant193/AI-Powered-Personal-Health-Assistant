@@ -1,0 +1,11 @@
+User Input:
+what
+
+Response:
+Please complete your question! I need more information to understand what you're asking about. For example, you could ask:
+
+* **"Considering the topic of Anatomy, what are the main systems of the human body?"**
+* **"Considering the topic of Anatomy, what are some common misconceptions about the human body?"**
+* **"Considering the topic of Anatomy, what are some interesting facts about the human body?"** 
+
+Once you provide me with a complete question, I can give you a detailed and helpful answer!

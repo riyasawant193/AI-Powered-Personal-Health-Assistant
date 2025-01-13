@@ -1,0 +1,21 @@
+User Input:
+Analysis Type: pregnancy_detection
+Custom Prompt: 
+
+Response:
+## Pregnancy Detection Report
+
+**Findings:**
+
+1. **Image Description:** The image is a black and white ultrasound image. It shows a distinct fetal form with recognizable features like a head, limbs, and a torso. The fetus appears to be positioned in a fetal presentation with its back facing the ultrasound probe. 
+2. **Signs of Pregnancy:** The presence of a well-defined fetal structure with recognizable features is a strong indication of pregnancy.
+
+**Interpretation:**
+
+1. **Pregnancy Suggestion:** The image strongly suggests pregnancy. 
+2. **Gestational Age Estimate:** Based on the fetal size and development, the gestational age appears to be approximately in the second trimester, likely around 18-22 weeks. However, this is a very cautious estimate and should be confirmed with further clinical evaluation.
+
+**Recommendations:**
+
+1. **Medical Tests/Consultations:**  For definitive confirmation of pregnancy and a more accurate gestational age assessment, a complete ultrasound examination by a qualified sonographer or obstetrician is recommended. This examination will provide detailed information about the fetal development, position, and overall health. 
+2. **Disclaimer:** Please note that this analysis is based on the image alone and is not a substitute for a professional medical diagnosis. Consulting with a qualified healthcare professional is crucial for accurate assessment and personalized medical advice. 

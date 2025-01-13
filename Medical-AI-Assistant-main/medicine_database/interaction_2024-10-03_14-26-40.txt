@@ -1,0 +1,63 @@
+User Input:
+Search By: generic, Name: paracetamol, Country: United States
+
+Response:
+## Paracetamol (Acetaminophen) in the United States
+
+**1. Indications:**
+
+Paracetamol, also known as acetaminophen, is a non-prescription medication used to relieve:
+
+* **Mild to moderate pain:** Headaches, muscle aches, backaches, toothaches, and pain from colds and flu.
+* **Fever:** It helps reduce body temperature.
+
+**2. Pharmacology:**
+
+Paracetamol works by blocking the production of certain chemicals in the brain that cause pain and fever. It does not reduce inflammation.
+
+**3. Dosage & Administration:**
+
+* **Adults:** The usual dose is 500-1000 mg every 4-6 hours, not to exceed 3000 mg in 24 hours. 
+* **Children:** Dosage depends on age and weight, consult a doctor or pharmacist for appropriate dosing. 
+* **Available forms:** Paracetamol comes in tablets, capsules, liquid, and rectal suppositories.
+
+**4. Interaction:**
+
+Paracetamol can interact with other medications, including:
+
+* **Warfarin:** May increase the risk of bleeding.
+* **Alcohol:**  Can increase the risk of liver damage.
+* **Certain antibiotics:** May increase the risk of liver damage. 
+* **Other pain relievers:** Combining paracetamol with other pain medications like ibuprofen or naproxen can increase the risk of side effects. 
+
+**5. Side Effects:**
+
+* **Common:** Stomach upset, nausea, constipation.
+* **Serious (rare):** Liver damage (especially with high doses or prolonged use), allergic reactions, skin rashes, low blood cell counts.
+
+**6. Pregnancy & Lactation:**
+
+* **Pregnancy:** Paracetamol is generally considered safe for use during pregnancy, but consult with a doctor before taking it.
+* **Lactation:** Paracetamol passes into breast milk, but it is generally considered safe for breastfeeding mothers in recommended doses.
+
+**7. Precautions & Warnings:**
+
+* **Liver disease:**  People with liver disease should use paracetamol with caution, as it can worsen liver damage.
+* **Alcohol consumption:** Avoid excessive alcohol use while taking paracetamol.
+* **Children:**  Do not give paracetamol to children under 2 years old without consulting a doctor. 
+* **Long-term use:** Taking paracetamol for extended periods can increase the risk of liver damage, especially in high doses.
+
+**8. Overdose Effects:**
+
+Paracetamol overdose is a serious medical emergency. Symptoms can include nausea, vomiting, abdominal pain, sweating, and confusion. 
+
+**9. Storage Conditions:**
+
+Store paracetamol at room temperature, in a cool, dry place, away from light and moisture. Keep it out of reach of children.
+
+**10. Medicine Brand Names:**
+
+* **Generic:** Acetaminophen
+* **Brand names:** Tylenol, Panadol, Tempra, and others.
+
+**Important note:** This information is for general knowledge purposes only and should not be considered medical advice. It is crucial to consult a doctor or pharmacist for any questions regarding medication use.

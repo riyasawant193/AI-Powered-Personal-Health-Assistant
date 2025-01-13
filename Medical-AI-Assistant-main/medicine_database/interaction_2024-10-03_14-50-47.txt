@@ -1,0 +1,63 @@
+User Input:
+Search By: generic, Name: paracetamol, Country: United States
+
+Response:
+## Paracetamol (Acetaminophen) in the United States
+
+**1. Indications:**
+
+* **Pain relief:** Paracetamol is used to relieve mild to moderate pain, such as headaches, muscle aches, backaches, and toothaches.
+* **Fever reduction:** It is also used to reduce fever.
+
+**2. Pharmacology:**
+
+* Paracetamol is a non-opioid analgesic and antipyretic.
+* Its exact mechanism of action is not fully understood, but it is thought to reduce pain and fever by inhibiting the production of prostaglandins in the central nervous system.
+
+**3. Dosage & Administration:**
+
+* **Adults:** The usual dosage is 325-1000 mg every 4-6 hours, not to exceed 3000 mg per day.
+* **Children:** Dosage varies depending on age and weight. Consult a healthcare professional for appropriate dosage.
+
+**4. Interactions:**
+
+* **Alcohol:** Combining paracetamol with alcohol can increase the risk of liver damage.
+* **Warfarin:** Paracetamol can increase the risk of bleeding in people taking warfarin.
+* **Other medications:** Consult a healthcare professional about potential interactions with other medications you are taking.
+
+**5. Side Effects:**
+
+* **Common:** Nausea, vomiting, stomach upset, diarrhea.
+* **Serious:** Liver damage (rare, but serious), allergic reactions.
+
+**6. Pregnancy & Lactation:**
+
+* **Pregnancy:** Paracetamol is generally considered safe for use during pregnancy, but it's best to consult a healthcare professional before taking it.
+* **Lactation:** Paracetamol passes into breast milk, but it is generally considered safe for breastfeeding mothers.
+
+**7. Precautions & Warnings:**
+
+* **Liver disease:** People with liver disease should use paracetamol with caution.
+* **Kidney disease:** People with kidney disease may need to adjust the dosage.
+* **Asthma:** People with asthma may have an increased risk of allergic reactions.
+* **Alcohol abuse:** People who abuse alcohol should avoid paracetamol.
+
+**8. Overdose Effects:**
+
+* Paracetamol overdose can cause serious liver damage, even death.
+* Symptoms of overdose include nausea, vomiting, abdominal pain, and jaundice.
+* Seek immediate medical attention if you suspect an overdose.
+
+**9. Storage Conditions:**
+
+* Store paracetamol at room temperature, away from moisture and heat.
+* Keep it out of reach of children.
+
+**10. Medicine Brand Names:**
+
+* Tylenol
+* Panadol
+* Acetaminophen
+* Many generic brands are available
+
+**Important Note:** This information is for general knowledge and does not substitute for professional medical advice. Consult a doctor or pharmacist before using any medication.
